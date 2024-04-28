@@ -95,22 +95,34 @@ print("For population = 70,000,we predict a profit of $" +str(round(predict2,0))
 ```
 
 ## Output:
-```
 1.Profit Prediction:
+
 ![271824429-364a60fa-689d-420c-8182-8fbb7c7b7325](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/e12140db-3426-4487-b124-029e2e001b8e)
+
 2.Function Output:
+
 ![271824465-75ed7cb1-4236-423e-9d87-bef66c87047d](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/590b18ec-bc00-4ef1-9627-10aa4fc3dcf8)
+
 3.Gradient Decent:
+
 ![271824504-91192bba-083a-46ee-bc65-3b74d27f99c7](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/7baa0843-4be8-4714-bf91-3823e52001fe)
+
 4.Cost Function Using Gradient Decent:
+
 ![271824577-0cea68d5-88ba-40de-a393-e28a378ac6af](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/2fd11855-64bd-4421-bf69-5065bfd52aea)
+
 5.Linear Regresion using Profit Prediction:
+
 ![271824636-a65c2b53-24ae-4ebd-8eff-9a381f804de6](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/03c1257c-c10a-42c9-a8e0-7babee47c8f0)
+
 6.Profit prediction for a population of 35,000:
+
 ![271824715-3e9d257a-8d61-4a6f-bd67-79f70a02cfb2](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/eced6da3-d310-4e54-9e06-452f0e56c0f9)
+
 7.Profit prediction for a population of 70,000:
+
 ![271824776-28d92d14-7909-4770-80ee-884c5813b2d8](https://github.com/aryabaisakhiya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393645/2d5e5a44-a25c-4611-936a-95266223351f)
-```
+
 
 
 
